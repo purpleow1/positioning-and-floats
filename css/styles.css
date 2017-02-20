@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+body {
+	height: 2000px;
+	font-family: 'PT Sans', sans-serif;
+	color: #333333;
+	font-weight: 400;
+	text-align: left;
+}
+
+main {
+	position: relative;
+	top: 200px;
+	width: 563px;
+	height: 789px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page {
+	border: 2px solid #000000;
+	width: 519px;
+	height: 746px;
+}
+
+.last-page {
+	position: absolute;
+	top: 39px;
+	left: 40px;
+	background-color: #acacac;
+}
+
+.middle-page {
+	position: absolute;
+	top: 20px;
+	left: 21px;
+	background-color: #cccccc;
+}
+
+.first-page {
+	position: absolute;
+	background-color: #ebebeb;
+	
+}
+
+.bookmark {
+	border-radius: 0px 10px 10px 0px;
+	border: 2px solid #000000;
+	width: 95px;
+	height: 31px;
+}
+
+.last-bookmark {
+	position: absolute;
+	top: 46px;
+	left: 438px;
+	background-color: #00aeef;
+}
+
+.middle-bookmark {
+	position: absolute;
+	top: 41px;
+	left: 470px;
+	background-color: #39b54a;
+}
+
+.first-bookmark {
+	position: absolute;
+	top: 38px;
+	left: 492px;
+	background-color: #f68e56;
+	width: 107px;
+}
+
+article {
+	width: 455px;
+	height: 707px;
+	padding: 39px 32px 0px 32px;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 400;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+
+.css-is-awesome {
+	margin: 4px 21px 13px 0px;
+	float: left;
+}
+
+p {
+	font-size: 12px;
+	margin: 0px; 
+}
+
+.you-are-the-css-to-my-html {
+	margin-top: 4px;
+	margin-left: 6px;
+	float: right;
+}
+
+.paragraph2 {
+	margin-bottom: 15px;
+}
+
+.paragraph3 {
+	margin-bottom: 25px;
+}
+
+h2 {
+	font-size: 18px;
+	margin-bottom: 21px;
+}
+
+figure {
+	margin: 0px;
+	width: 455px;
+}
+
+.figure1 {
+	margin-bottom: 14px;
+	height: 89px;
+}
+
+.figure2 {
+	margin-bottom: 28px;
+	height: 89px;
+}
+
+.img-left {
+	float: left;
+}
+
+.img-right {
+	float: right;
+}
+
+figcaption {
+	margin-left: 9px;
+	margin-right: 9px;
+	font-size: 9px;
+	text-align: center;
+}
+
+aside {
+	position: fixed;
+	bottom: 100px;
+	right: 0px;
+	border: 1px solid #362f2d;
+	background-color: #fbaf5d;
+	width: 87px;
+	height: 69px;
+}
+
+h3 {
+	font-size: 16px;
+	text-align: center;
+	margin-top: 9px;
+	margin-bottom: 11px;
+}
+
+.icons {
+	margin-left: 6px;
+}
